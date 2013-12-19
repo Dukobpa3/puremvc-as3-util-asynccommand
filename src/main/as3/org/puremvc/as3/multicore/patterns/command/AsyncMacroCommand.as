@@ -89,7 +89,7 @@ package org.puremvc.as3.multicore.patterns.command
 		 * <P>
 		 * Note that <i>SubCommand</i>s may be any <code>ICommand</code> implementor,
 		 * <code>AsyncMacroCommand</code>s, <code>AsyncCommand</code>s, 
-		 * <code>MacroCommand</code>s or <code>SimpleCommands</code> are all acceptable.
+		 * <code>MacroCommand</code>s or <code>SimpleCommands</code> are all acceptable.</P>
 		 */
 		protected function initializeAsyncMacroCommand():void {}
 
